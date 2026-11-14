@@ -23,3 +23,19 @@ Players flip two cards at a time. If the cards are identical, they remain open. 
 •Winning message.
 
 •Responsive design for mobile and desktop.
+
+⚙️ Technologies
+
+•HTML 
+
+•CSS 
+
+•JavaScript 
+
+💻 Platform
+
+Web Browser (Laptop and Mobile)
+
+🌟 Project Status
+
+Planning and initial development stage.
